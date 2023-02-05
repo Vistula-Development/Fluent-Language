@@ -1,6 +1,5 @@
 ![Fluent Logo (if you see this, something is very wrong.)](https://raw.githubusercontent.com/Vistula-Development/Fluent-Language/main/FLUENT%20LOGO.png)
 
-# Fluent-Language
 Fluent is a programming language I am making because I want a programming language in this specific syntax. It's basically just a fucking combination of a bunch of features and will probably be buggy af.
 
 # Example Fluent Code
